@@ -31,10 +31,6 @@
     border-top-right-radius: 5px;
 }
 
-.desktop-image {
-    display: block;
-}
-
 p, s {
     color: gray;
 }
