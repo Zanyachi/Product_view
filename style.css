@@ -22,7 +22,7 @@
 }
 
 .mobile-image {
-    background-image: url('/images/image-product-mobile.jpg');
+    background-image: url('/image-product-mobile.jpg');
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -136,7 +136,7 @@ h1, b {
     }
     
     .desktop-image {
-        background-image: url('/images/image-product-desktop.jpg');
+        background-image: url('/image-product-desktop.jpg');
         background-size: cover;
         background-position: center;
         width: 300px;
